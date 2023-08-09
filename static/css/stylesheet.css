@@ -1,0 +1,32 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    overflow: hidden;
+    margin-left: 850px;
+    width: 50%;
+    float: center;
+  }
+  
+  /* Style the links inside the navigation bar */
+.topnav a {
+    margin: center;
+    width: 75%;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin-left: 750px;
+    margin-top: 150px;
+    width: 50%;
+    padding: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.intro {
+    margin-left: 750px;
+    width: 50%;
+    padding: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
